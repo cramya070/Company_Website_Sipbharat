@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+:root{
+    --main-font: 'Hind Siliguri';
+}
+
+/*----- Colors Start -----*/
+.clr-teal{
+    background-color: #AA336A;
+}
